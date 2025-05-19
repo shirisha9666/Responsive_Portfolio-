@@ -2,6 +2,7 @@
 *{
     margin: 0;
     padding: 0;
+    /* overflow-x: hidden; */
 }
 body{
     
@@ -238,6 +239,12 @@ display: flex;
 .arrow{
 position: absolute;
 right: -5rem;
+bottom: 2.5rem;
+}
+
+.arrow-1{
+position: absolute;
+right: 1rem;
 bottom: 2.5rem;
 }
 
